@@ -1,0 +1,161 @@
+body{ 
+    background-color: #00203fff ;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.img-div{
+    height: 100%;
+    width: 100%;
+}
+.img-fluid{
+    margin: 10px 5px ;
+    max-width: 20%;
+    border-radius: 50%;
+}
+.img-fluid:hover{
+    border: #fddb27ff solid 5px;
+    box-shadow: 10px 10px 8px black;
+}
+.h1{
+    font-size: 9vw;
+    display: inline;
+    color: #D35400 ;
+}
+.h1:hover{
+   color: #fa8100;
+}
+.h2{
+    text-align: center;
+    font-size: 5vw;
+    margin-top: -45px;
+    color: #D35400 ;
+}
+.h2:hover{
+    color: #fa8100;
+}
+hr.new1 {
+    border-top: 2px solid #fddb27ff;
+}
+
+p{
+    font-size: 2vw;
+    color: white !important;
+    margin-top: 10px;
+}
+.Container{
+    color: #4DD0E1;
+    margin-left: 60px;
+}
+.h3{
+    font-size: 3vw;
+    margin-top: 30px;
+}
+.img11-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img11-fluid:hover{
+    background-color: #3C327B;
+    border-radius: 50%;
+}
+.img22-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img22-fluid:hover{
+    background-color: #ffdd00;
+    border-radius: 50%;
+}
+.img33-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img33-fluid:hover{
+  background-color: #e34c26;
+  border-radius: 50%;
+}
+.img44-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img44-fluid:hover{
+    background-color: #264de4;
+    border-radius: 50%;
+}
+
+.img3-fluid{
+  margin-left: 50px;
+  max-width: 10%;
+}
+.img3-fluid:hover{
+    background-color: #3B5998;
+    border-radius: 50%;
+}
+.img4-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img4-fluid:hover{
+    background-color: #00ACEE;
+    border-radius: 50%;
+}
+.img5-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img5-fluid:hover{
+    background-color: #3F729B;
+    border-radius: 30%;
+}
+.img6-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img6-fluid:hover{
+    background-color: #B2FF66;
+    border-radius: 50%;
+}
+.img111-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img111-fluid:hover{
+    background-color: #fa57c1;
+    border-radius: 50%;
+}
+.img222-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img222-fluid:hover{
+    background-color: #E71C23;
+    border-radius: 50%;
+}
+.img333-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img333-fluid:hover{
+    background-color: #075e54;
+    border-radius: 50%;
+}
+.img444-fluid{
+    margin-left: 50px;
+    max-width: 10%;
+}
+.img444-fluid:hover{
+    background-color: #4A154B;
+    border-radius: 50%;
+}
+.Container1{
+    color: white;
+}
+.h7{
+    font-size: 3vw;
+    margin-top: 30px;
+    text-align: center;
+}
+.h7:hover{
+    color: black;
+    background-color: white;
+}
+
